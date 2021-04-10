@@ -1,5 +1,7 @@
-telebot
+json
+time
+html2text
 requests
-bs4
-PyTelegramBotAPI
-feedparser
+os
+vk
+vk_api
