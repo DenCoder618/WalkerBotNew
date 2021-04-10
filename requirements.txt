@@ -1,7 +1,4 @@
-json
-time
 html2text
 requests
-os
 vk
 vk_api
