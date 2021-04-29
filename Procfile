@@ -1,1 +1,1 @@
-bot: python3 potatbot.py
+bot: python3 ege_bot.py
